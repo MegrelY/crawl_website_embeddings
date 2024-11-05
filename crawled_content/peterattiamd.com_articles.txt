@@ -1,4 +1,4 @@
-About Peter - Peter Attia
+Articles - Peter Attia
 Start Here
 Menu
 Book
@@ -31,34 +31,42 @@ Login
 Search for:
 Search
 Login
-About Peter
-Peter Attia, MD, is the founder of
-Early Medical
-, a medical practice that applies the principles of Medicine 3.0 to patients with the goal of simultaneously lengthening their lifespan and increasing their healthspan.
-He is the host of
-The Drive
-, one of the most popular podcasts covering the topics of health and medicine.
-He is also the author of the #1
-New York Times
-Bestseller,
-Outlive: The Science and Art of Longevity
-.
-Dr. Attia received his medical degree from the Stanford University School of Medicine and trained for five years at the Johns Hopkins Hospital in general surgery, where he was the recipient of several prestigious awards, including resident of the year.
-He spent two years at the National Institutes of Health as a surgical oncology fellow at the National Cancer Institute, where his research focused on immune-based therapies for melanoma.
-He lives in Austin, Texas with his wife and three kids.
-He is licensed in Texas (S8803), California (A96452), and New York (281406-1).
-Media
-You can listen to Peter talk more about his approach and research on our
-Media page
-.
-Speaking
-For speaking inquiries, please use
-this form
-.
-Disclosures
-Read about our disclosures here.
-Comment Policy
-Read about our comment policy here.
+Medications & supplements
+Failure of resveratrol to improve metabolic health is another nail in the coffin for the alleged “anti-aging” compound
+A recent meta-analysis of randomized trials assessed the performance of resveratrol in improving various metrics of metabolic health
+Mental & Emotional Health
+Beyond the headlines: evaluating exercise as an equivalent to medication for the treatment of depression and anxiety
+Popular media has circulated news of a study allegedly showing that exercise is preferable to medication as a treatment for anxiety and depression, but is this interpretation justified?
+Understanding science
+Research Worth Sharing, October 2024 Edition
+Using biofeedback to reach weight loss goals, preventing falls with exercise, the impact of social support on stress eating, and an atlas of data on changes related to muscle aging
+Longevity
+Do humans age in distinct rapid bursts instead of gradually over time?
+A recent study makes use of multi-omics data to establish patterns of human aging, but results have dubious relevance on an individual scale
+Exercise
+High-intensity interval training and cognitive function in older adults: promising but limited findings
+A new study indicates that HIIT may help delay or even reverse age-related declines in memory and learning, but this exercise modality remains just one aspect of a well-balanced regimen.
+Premium Articles
+Cold therapy: the facts, the myths, and the how-to
+Forms of cold therapy have been used for generations for a number of alleged health benefits, but which are supported by evidence?
+Other tactics, tools, & treatments
+Could plasma protein levels be a surrogate for VO2 max testing as a measure of cardiorespiratory fitness?
+A proteomics model may provide an alternative method for estimating risk of mortality and chronic disease
+Zone 2
+Is zone 5 training okay to do immediately following zone 2 training?
+This video clip is from #201 – Deep dive back into Zone 2 with Iñigo San-Millán, Ph.D., originally released on…
+Exercise
+A study suggesting that exercise does not impact mortality offers little more than click-bait
+Challenges to long-held knowledge makes for attention-grabbing headlines, but not necessarily good science. Excuse me while I scream.
+Longevity
+Is interleukin-11 a promising new target for lifespan-extending interventions?
+A recent study reports impressive results in male and female mice with anti-IL-11 therapy
+1
+2
+3
+…
+50
+Next »
 Peter Attia is a physician focusing on the applied science of longevity.
 Sign up for updates
 Email
@@ -66,7 +74,7 @@ Email
 Hidden
 H-o-n-e-y-p-o-t
 CAPTCHA
-Comments
+Email
 This field is for validation purposes and should be left unchanged.
 Δ
 Content

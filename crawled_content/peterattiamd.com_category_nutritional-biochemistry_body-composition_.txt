@@ -1,4 +1,4 @@
-How to lower your blood pressure | Peter Attia, M.D.
+Why body composition is more important than weight | Peter Attia, M.D.
 Start Here
 Menu
 Book
@@ -32,16 +32,40 @@ Search for:
 Search
 Login
 Category
-High Blood Pressure
-Nearly half of adults in the United States have hypertension — blood pressure with a systolic reading above 130 mmHg & a diastolic reading above 80 mmHg — and among this population, only
-about 1 in 4 have their condition under control.
-It is common for blood pressure to rise and fall throughout the day, but when blood pressure remains high for an extended time, it can eventually cause
-a number of serious health concerns
-, including kidney damage and damage to arteries of the heart and brain.
-The curated content below dives into the causes and effects of high blood pressure, the connection between blood pressure and uric acid, as well as effective strategies for reducing blood pressure. My hope is that it may serve as a helpful resource to support your ongoing longevity journey.
-Risks
-Patient Case Study: Elevated Uric Acid and High Blood Pressure
-This audio clip is from “Ask Me Anything” (AMA) episode #15 — Real-world case studies—metabolic dysregulation, low testosterone, menopause, and more. If…
+Body Composition & DEXA
+Many of us use body weight or BMI (body mass index) for a quick approximation of our health status.
+Yet the utility of these metrics is limited
+because they provide little information about a far more relevant parameter: body composition – and in particular, body fat and its distribution. Body weight and BMI alone do not discriminate between
+muscle mass
+(which we want to maintain or increase to promote longevity) and
+fat mass
+(which we generally want to keep relatively low). Thus, when we set a goal to “lose weight,” our real aim ought to be losing fat.
+Losing fat mass isn’t necessarily easy, but unfortunately, that struggle pales in comparison to the challenge of
+keeping it off
+. This is caused in large part by a
+hormone called leptin
+, which is secreted by fat cells and plays a critical role in numerous endocrine pathways and functions, including the regulation of energy homeostasis. Leptin is secreted at levels proportional to body fat and acts as a “satiety hormone” in the brain, causing a reduction in food intake. However, as leptin signaling decreases – due to fat loss or to key neurons becoming leptin-resistant – the brain interprets this as a sign of starvation, and drives increased appetite and reduced energy expenditure to counteract the loss.
+The content selections below provide more information on the
+accumulation and measurement of body fat
+,
+different types of fat and their relative impacts on health
+, and
+the effects of leptin on appetite and metabolism
+.
+Nutrition
+Visceral Fat vs. Subcutaneous Fat — What’s the Difference?
+This clip is from “Ask Me Anything” (AMA) episode #17, originally released on November 9, 2020. If you’re a member, you…
+#324 ‒ Metabolism, energy balance, and aging: How diet, calorie restriction, and macronutrients influence longevity and metabolic health | Eric Ravussin, Ph.D.
+“
+I still believe that a nutritional approach to weight loss without physical activity or exercise prescribed is not a good strategy. We should implement both and try to have people enjoying the exercise.
+” —Eric Ravussin
+#320 – AMA 64: New insights on GLP-1 agonists (Ozempic, Wegovy, Mounjaro) – efficacy, benefits, risks, and considerations in the rapidly evolving weight-loss drug landscape
+“If you’re taking these drugs, really, really pay attention to your protein consumption and your resistance training. . .that’s obviously going to be an important part of being on the right side of that body composition curve.”
+— Peter Attia
+#314 ‒ Rethinking nutrition science: the evolving landscape of obesity treatment, GLP-1 agonists, protein, and the need for higher research standards | David Allison, Ph.D.
+“
+I think we really need a radically different public health paradigm.
+” —David Allison
 #313 – AMA #62: Protein’s impact on appetite and weight management, and uric acid’s link to disease and how to manage levels
 “
 The body responds in pretty significant ways to alterations in protein availability.
@@ -50,18 +74,8 @@ The body responds in pretty significant ways to alterations in protein availabil
 “
 Metabolic health, first and foremost, is the goal of nutrition.
 ” —Peter Attia
-Is low-to-moderate alcohol consumption beneficial for longevity?
-There is a common belief that low-to-moderate consumption of alcohol has unique health benefits. What does the evidence show?
-#258 – AMA #48: Blood pressure—how to measure, manage, and treat high blood pressure
-“
-If you care about your brain, if you care about your heart and if you care about your kidneys, you need low blood pressure. I think we can say that as confidently as we can say almost anything in medicine
-.” —Peter Attia
-#252 ‒ Latest insights on Alzheimer’s disease, cancer, exercise, nutrition, and fasting | Rhonda Patrick, Ph.D.
-“
-My perspective has shifted as any scientist that’s following data should… When new data comes out, you have to reassess things.
-” —Rhonda Patrick
-When CAC Tests Are Useful and When They Are Not
-This video clip is from episode #185 – Allan Sniderman, M.D.: Cardiovascular disease and why we should change the way we…
+Body composition: impact on disease risk and how to assess and improve it
+A refresher on why you should care about body composition and a practical guide to determining and interpreting your measurements
 Sign up to receive Peter's expertise in your inbox
 Sign up to receive the 5 tactics in my Longevity Toolkit, followed by non-lame, weekly emails on the latest strategies and tactics for increasing your lifespan, healthspan, and well-being (plus new podcast announcements).
 Email
@@ -72,18 +86,20 @@ CAPTCHA
 Email
 This field is for validation purposes and should be left unchanged.
 Δ
-Peter on why early prevention of atherosclerosis is critical
-This video clip is from episode #185 – Allan Sniderman, M.D.: Cardiovascular disease and why we should change the way we…
-Preventing Atherosclerosis: 2 Fatal Flaws with the “10 Year Risk” Approach
-This video clip is from episode #185 – Allan Sniderman, M.D.: Cardiovascular disease and why we should change the way…
-Why a recent study hasn’t shaken my faith in statins
-A rebuttal of Byrne
-et al
-.
-How Peter thinks about managing GFR & high blood pressure in his patients
-This video clip is taken from  Podcast #194 – How Fructose Drives Metabolic Disease with Rick Johnson, M.D. Rick Johnson…
+#299 ‒ Optimizing muscle protein synthesis: the crucial impact of protein quality and quantity, and the key role of resistance training | Luc van Loon, Ph.D.
+“It’s the exercise that makes you respond way more to the same or less amount of protein that you ingest
+.” —Luc van Loon
+Does time-restricted eating increase the risk of cardiovascular death?
+Why I don’t put any stock in a recent “study”
+Optimizing protein quantity, distribution, and quality
+Maximizing muscle protein synthesis is more than a matter of daily protein intake. How we distribute protein throughout the day matters, as does protein quality.
+New insights on maximizing protein utilization for muscle protein synthesis
+A new study adds nuance – rather than contradictions – to conventional wisdom on protein intake patterns for maximal anabolic response
 1
 2
+3
+…
+7
 Next »
 Peter Attia is a physician focusing on the applied science of longevity.
 Sign up for updates
@@ -92,7 +108,7 @@ Email
 Hidden
 H-o-n-e-y-p-o-t
 CAPTCHA
-Name
+Phone
 This field is for validation purposes and should be left unchanged.
 Δ
 Content
@@ -168,7 +184,7 @@ Email
 Hidden
 H-o-n-e-y-p-o-t
 CAPTCHA
-Email
+Phone
 This field is for validation purposes and should be left unchanged.
 Δ
 Facebook icon

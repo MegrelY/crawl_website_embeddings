@@ -1,4 +1,4 @@
-About Peter - Peter Attia
+Disclosures - Peter Attia
 Start Here
 Menu
 Book
@@ -31,34 +31,57 @@ Login
 Search for:
 Search
 Login
-About Peter
-Peter Attia, MD, is the founder of
-Early Medical
-, a medical practice that applies the principles of Medicine 3.0 to patients with the goal of simultaneously lengthening their lifespan and increasing their healthspan.
-He is the host of
-The Drive
-, one of the most popular podcasts covering the topics of health and medicine.
-He is also the author of the #1
-New York Times
-Bestseller,
-Outlive: The Science and Art of Longevity
-.
-Dr. Attia received his medical degree from the Stanford University School of Medicine and trained for five years at the Johns Hopkins Hospital in general surgery, where he was the recipient of several prestigious awards, including resident of the year.
-He spent two years at the National Institutes of Health as a surgical oncology fellow at the National Cancer Institute, where his research focused on immune-based therapies for melanoma.
-He lives in Austin, Texas with his wife and three kids.
-He is licensed in Texas (S8803), California (A96452), and New York (281406-1).
-Media
-You can listen to Peter talk more about his approach and research on our
-Media page
-.
-Speaking
-For speaking inquiries, please use
-this form
-.
 Disclosures
-Read about our disclosures here.
-Comment Policy
-Read about our comment policy here.
+It is very important to me, as it has been from the moment I became a public figure, that all my potential conflicts are disclosed. I believe this is a practice that every person who is in a position of influence should adhere to, though sadly most do not.
+I list my disclosures in two groups, with some overlap: (i) companies I have invested in, and (ii) companies I am currently advising or have previously advised.
+(Note: this list does not include investments in companies that have no involvement whatsoever in my sphere of influence or line of work.)
+Companies I have invested in
+Athletic Greens
+Big Sky Health
+HumanCo Investments
+Jocasta Neuroscience
+Kai, LLC (dba Maui Nui Venison)
+Kosterina
+Linus Technology
+LMNT
+Magic Spoon
+Moonwalk Biosciences
+Oura Health Oy
+Salutoceuticals
+Supercast
+Companies I advise
+Present:
+Linus Technology (David Protein) (July 2024 – Present)
+Eight Sleep (April 2024 – Present)
+LifeX (October 2023 – Present)
+Biograph Scientific (September 2022 – Present)
+Moonwalk Biosciences (August 2022 – Present)
+Alpha Wave Global (January 2022 – Present)
+Athletic Greens (September 2021 – Present)
+Virta Health (August 2016 – Present)
+Previous:
+Big Sky Health (April 2018 – March 2023)
+Oura Health Oy (January 2019 – January 2023)
+Dexcom (September 2020 – Aug 2021)
+This list is updated regularly.
+In addition to providing this list, I’d like to address a few questions you may be reasonably asking.
+Do you participate in affiliate marketing?
+No, I do not engage in any affiliate (i.e., kickback) marketing
+.
+Under no circumstance have I ever or will I ever receive a direct financial kickback or “affiliate” payment for any product I discuss. Most of the time when I discuss a product that I have purchased, like, and use I have no association with the company. Instead, it is a genuine unprompted endorsement as I do not accept or invite ‘free products’ in exchange for reviews. And, again, I receive no kickback, if/even when it is offered following an unannounced endorsement.
+Are you compensated for product endorsements?
+No, I do not accept compensation for product endorsement.
+Other times, I will talk about a product or service produced by a company in one of the two categories above. I still, under no circumstance, am separately compensated to do so, nor do I have commercial or contractual obligations to do so at my insistence. This includes declining any compensation that would create an incentive to be a “paid face” of an organization or brand.
+Do you allow your name or image to be used by others?
+Yes,  but under very limited circumstances. I do not allow third-party ads using my name, image, brand and likeness
+I do not authorize or lend my name, image, brand, or likeness without explicit consent. My team is rigorous in pursuing legal action when we notice folks falsely using my name or my endorsement to directly promote sales via online ads. If you see anyone doing this, please
+contact us
+and let us know.
+Do you sell ads to support your podcast?
+No, my podcast is Ad-free
+The only revenue generated from the podcast comes in the form of subscription via our members who receive additional benefits, beyond the free podcast, by subscribing. More on this can be found
+here
+.
 Peter Attia is a physician focusing on the applied science of longevity.
 Sign up for updates
 Email
@@ -66,7 +89,7 @@ Email
 Hidden
 H-o-n-e-y-p-o-t
 CAPTCHA
-Comments
+Phone
 This field is for validation purposes and should be left unchanged.
 Δ
 Content
@@ -142,7 +165,7 @@ Email
 Hidden
 H-o-n-e-y-p-o-t
 CAPTCHA
-Email
+Phone
 This field is for validation purposes and should be left unchanged.
 Δ
 Facebook icon

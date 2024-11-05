@@ -1,4 +1,4 @@
-About Peter - Peter Attia
+Gift Membership - Peter Attia
 Start Here
 Menu
 Book
@@ -31,34 +31,19 @@ Login
 Search for:
 Search
 Login
-About Peter
-Peter Attia, MD, is the founder of
-Early Medical
-, a medical practice that applies the principles of Medicine 3.0 to patients with the goal of simultaneously lengthening their lifespan and increasing their healthspan.
-He is the host of
-The Drive
-, one of the most popular podcasts covering the topics of health and medicine.
-He is also the author of the #1
-New York Times
-Bestseller,
-Outlive: The Science and Art of Longevity
+Gift Membership
+Please enter the buyer’s information below.
+You will have the option to enter the recipient’s information after payment, along with a gift message.
+Interested in Premium Membership?
+Exciting news!
+We’re rolling out a new website design today, bringing you a sleek, upgraded experience with your premium membership.
+During this transition, we’ve temporarily paused new membership sign-ups, but don’t worry—just
+enter your email below
+, and we’ll notify you as soon as membership activation is available,
+later today or tomorrow morning
 .
-Dr. Attia received his medical degree from the Stanford University School of Medicine and trained for five years at the Johns Hopkins Hospital in general surgery, where he was the recipient of several prestigious awards, including resident of the year.
-He spent two years at the National Institutes of Health as a surgical oncology fellow at the National Cancer Institute, where his research focused on immune-based therapies for melanoma.
-He lives in Austin, Texas with his wife and three kids.
-He is licensed in Texas (S8803), California (A96452), and New York (281406-1).
-Media
-You can listen to Peter talk more about his approach and research on our
-Media page
-.
-Speaking
-For speaking inquiries, please use
-this form
-.
-Disclosures
-Read about our disclosures here.
-Comment Policy
-Read about our comment policy here.
+Email
+Δ
 Peter Attia is a physician focusing on the applied science of longevity.
 Sign up for updates
 Email
@@ -66,7 +51,7 @@ Email
 Hidden
 H-o-n-e-y-p-o-t
 CAPTCHA
-Comments
+Name
 This field is for validation purposes and should be left unchanged.
 Δ
 Content
@@ -142,7 +127,7 @@ Email
 Hidden
 H-o-n-e-y-p-o-t
 CAPTCHA
-Email
+Comments
 This field is for validation purposes and should be left unchanged.
 Δ
 Facebook icon
