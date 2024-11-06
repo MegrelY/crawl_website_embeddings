@@ -1,5 +1,6 @@
 import os
 import json
+from dotenv import load_dotenv
 from datetime import datetime
 from openai import OpenAI
 from sqlalchemy import create_engine, Column, Integer, Text, JSON, DateTime
@@ -7,11 +8,17 @@ from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 from pgvector.sqlalchemy import Vector  # Correct import for vector type
 
+# Load environment variables from .env file
+load_dotenv()
+
 # Initialize OpenAI client
 client = OpenAI()
 
 # Configure SQLAlchemy to connect to your PostgreSQL database
-DATABASE_URL = "postgresql+psycopg2://postgres:mysecretpassword@localhost:5432/amp_db"
+DATABASE_URL = os.getenv("DATABASE_URL")
+# Ensure the environment variable is loaded
+if not DATABASE_URL:
+    raise ValueError("DATABASE_URL is not set in the environment")
 engine = create_engine(DATABASE_URL)
 Base = declarative_base()
 
