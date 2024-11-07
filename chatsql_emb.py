@@ -3,14 +3,14 @@ import numpy as np
 from dotenv import load_dotenv
 from sqlalchemy import create_engine, Column, Integer, String, JSON, TIMESTAMP
 from sqlalchemy.orm import sessionmaker, declarative_base, Session
-from sqlalchemy.dialects.postgresql import VECTOR
-import openai
+from pgvector.sqlalchemy import Vector
+from openai import OpenAI
 
 # Load environment variables
 load_dotenv()
 
-# Set OpenAI API key
-openai.api_key = os.getenv("OPENAI_API_KEY")
+# Initialize the OpenAI client
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # Database configuration
 DATABASE_URL = os.getenv("DATABASE_URL")
@@ -18,7 +18,6 @@ engine = create_engine(DATABASE_URL)
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 Base = declarative_base()
 
-# Define Document model to match 'documents' table
 class Document(Base):
     __tablename__ = "documents"
 
@@ -30,17 +29,17 @@ class Document(Base):
     paragraphs = Column(JSON)
     lists = Column(JSON)
     links = Column(JSON)
-    embedding = Column(VECTOR(1536))
+    embedding = Column(Vector(1536))
 
 # Function to generate embeddings
 def generate_query_embedding(query, model="text-embedding-3-small"):
     """Generate an embedding for a search query."""
     try:
-        response = openai.Embedding.create(
+        response = client.embeddings.create(
             input=[query],
             model=model
         )
-        return response['data'][0]['embedding']
+        return response.data[0].embedding
     except Exception as e:
         print(f"Error generating query embedding: {e}")
         return None
@@ -109,13 +108,13 @@ def ongoing_conversation(session):
 
         # Get the assistant's response using OpenAI API
         try:
-            completion = openai.ChatCompletion.create(
-                model="gpt-4",
+            completion = client.chat.completions.create(
+                model="gpt-4o",
                 messages=messages
             )
 
             # Extract the response
-            assistant_response = completion.choices[0].message['content']
+            assistant_response = completion.choices[0].message.content
             print(f"Avatar Peter: {assistant_response}")
 
             # Append the assistant's response to the conversation history
